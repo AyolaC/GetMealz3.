@@ -136,5 +136,21 @@ override fun onCreate(savedInstanceState: Bundle?) {
 
 
     }
+    Report:
+    This app is called GetMealz its main purpose is to suggest maeals for users who struggle with deciding what to it,
+    however this meal also serves as a diet app as it provides suggestions that are considered healthy.To make sure that 
+    not only are the users fed but healthy too.
+    The app is fairly straight forward this why obtained by not adding to much UI, which could easily confuse potential users of all ages. Error message is included too to assist user if invalid input has been entered. Average English has been used to accomodate people of all literature levels. Lastly Github has been used to manage bugs, feature requests and tasks, including the tracking of code changes.
+
+
+
+
+
+
+
+
+
+
+    
 Youtube link: https://youtu.be/SH18KZ4kNRQ?si=TlrkbBV8qpfXqbaM
 GitHub: https://github.com/AyolaC/GetMealz33
