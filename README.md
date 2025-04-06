@@ -1,5 +1,8 @@
 # GetMealz
- package com.example.getmealz
+![logo](https://github.com/user-attachments/assets/10d86479-49e1-4c99-8654-b9979bdb0719)
+
+
+#package com.example.getmealz
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
